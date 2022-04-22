@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\bin\Debug\Mailiyet_Test.exe.config
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\bin\Debug\Mailiyet_Test.exe
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\bin\Debug\Mailiyet_Test.pdb
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.Form1.resources
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.exe
+C:\Users\BUSE NUR\source\repos\Mailiyet_Test\Mailiyet_Test\obj\Debug\Mailiyet_Test.pdb
